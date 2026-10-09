@@ -1,3 +1,7 @@
+> **English version**: [README.en.md](README.en.md)
+> 
+
+
 # 国内开通海外 AI 会员指南（2026）：四种方式对比与避坑清单
 
 > **非官方声明**：本项目是独立的第三方资料整理，与 OpenAI、Anthropic、Google 均无官方合作、授权或隶属关系。ChatGPT、Claude、Gemini 等名称与商标归各自权利人所有。
