@@ -1,3 +1,7 @@
+> **中文版 (Chinese)**: [README.md](README.md)
+> 
+
+
 # How to Pay for ChatGPT Plus, Claude Pro and Gemini from China (2026): Four Options Compared
 
 > **Not affiliated**: This is an independent, third-party reference. It is not affiliated with, authorized by, or endorsed by OpenAI, Anthropic or Google. ChatGPT, Claude, Gemini and related names are trademarks of their respective owners.
