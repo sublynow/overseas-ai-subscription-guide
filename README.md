@@ -188,3 +188,7 @@
 本项目仅整理公开可查的订阅方式与注意事项，不构成任何服务的推荐或担保。任何支付与订阅决定请自行核实平台的最新规则与退款政策。
 
 ---
+
+
+**更多资料**：Google Sites 版图文指南（[中文](https://sites.google.com/view/overseas-ai-membership-guide) / [English](https://sites.google.com/view/overseas-ai-membership-guide/english)）
+
