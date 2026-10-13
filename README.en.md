@@ -188,5 +188,5 @@ For a quick test with nothing private, you can judge for yourself. Once you need
 This project only collects publicly available information about subscription methods and things to watch out for. It does not constitute a recommendation or guarantee of any service. Please verify each provider's latest rules and refund policy before making any payment or subscription decision.
 
 
-**More resources**: Illustrated guide on Google Sites ([Chinese](https://sites.google.com/view/overseas-ai-membership-guide) / [English](https://sites.google.com/view/overseas-ai-membership-guide/english))
+**More resources**: Illustrated guide on Google Sites ([Chinese](https://sites.google.com/view/overseas-ai-membership-guide) / [English](https://sites.google.com/view/overseas-ai-membership-guide/english)); for hands-on help with activation, see our site [SublyNow](https://sublynow.com/).
 

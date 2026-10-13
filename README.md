@@ -190,5 +190,5 @@
 ---
 
 
-**更多资料**：Google Sites 版图文指南（[中文](https://sites.google.com/view/overseas-ai-membership-guide) / [English](https://sites.google.com/view/overseas-ai-membership-guide/english)）
+**更多资料**：Google Sites 版图文指南（[中文](https://sites.google.com/view/overseas-ai-membership-guide) / [English](https://sites.google.com/view/overseas-ai-membership-guide/english)）；需要协助开通可直接查看官网 [SublyNow](https://sublynow.com/)。
 
