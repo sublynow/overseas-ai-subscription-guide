@@ -179,6 +179,20 @@
 
 ## 更新记录
 
+- **2026-10-30**
+  - 200 美元档 Pro 的配额调整与补偿口径：[ChatGPT Pro 20x 额度砍半，还会恢复吗](https://post.smzdm.com/p/ak836nl8/)
+  - Pro 每月等额 API 额度怎么领（英文）：[Does ChatGPT Pro Include API Credits?](https://www.promoteproject.com/article/231026/does-chatgpt-pro-include-api-credits-how-much-and-how-to-claim-them)
+  - 取消订阅与退款的区别：[ChatGPT 取消订阅：退款规则和三个最容易踩错的地方](https://www.vava8.com/index.php?app=index&act=view&id=178057)
+- **2026-10-29**
+  - 学生优惠的申请条件与截止时间：[ChatGPT 学生优惠 2026：四个月免费怎么拿](https://sublynow.blogspot.com/2026/10/chatgpt-student-discount-2026-four-free.html)
+  - 一个人该订几个会员的算账方法：[AI 会员值得开通吗？三个数算完再决定](https://blog.csdn.net/sublynow_2026716/article/details/169446180)
+- **2026-10-28**
+  - 报销与开票走不通的三个卡点：[ChatGPT 可以开发票吗](https://www.vava8.com/index.php?app=index&act=view&id=176889)
+- **2026-10-27**
+  - 一整年的真实支出：[ChatGPT Plus 一年多少钱？12 个月账单实算](https://post.smzdm.com/p/a5rxlqm7/)
+- **2026-10-26**
+  - 从境外完成付款的完整流程：[Paying for ChatGPT Plus from Outside the US](https://sublynow.blogspot.com/2026/10/paying-for-chatgpt-plus-from-outside-us.html)
+  - Claude 与 ChatGPT 的用量上限差异：[What the Official Docs Actually Say](https://medium.com/@xl7848617/claude-usage-limits-vs-chatgpt-message-limits-what-the-official-docs-actually-say-f4be48d51bc8)
 - **2026-10-09**：首次整理，覆盖四种方式对比、常见坑与 FAQ。
 
 ---
