@@ -1,4 +1,5 @@
 > **English version**: [README.en.md](README.en.md)
+> **最后更新**：2026-10-30
 > 
 
 
