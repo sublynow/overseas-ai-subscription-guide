@@ -1,5 +1,5 @@
-> **English version**: [README.en.md](README.en.md)
-> **最后更新**：2026-10-30
+﻿> **English version**: [README.en.md](README.en.md)
+> **最后更新**：2026-11-06
 > 
 
 
@@ -180,6 +180,24 @@
 
 ## 更新记录
 
+- **2026-11-06**
+  - ChatGPT Plus 和 Claude Pro 要不要都订：[ChatGPT Plus vs Claude Pro: Do You Actually Need Both?](https://sublynow.blogspot.com/2026/11/chatgpt-plus-vs-claude-pro-do-you.html)
+  - 三家订阅的入门付费档到顶配差多少倍（图）：[AI Subscription Ladders 2026: What Sits Above the $20 Plan](https://www.pinterest.com/pin/1146447648930351072/)
+  - 免费版到底限在哪三处：[免费版够不够用？先让它自己回答这三个问题](https://www.facebook.com/permalink.php?story_fbid=pfbid0YKbNTwVD8gJpBrPRGCMY1xrRs5qvviV82bJYd3pVMHd5Ld7ZyHRcbHJZ1z97fvUDl&id=61595265837746)
+- **2026-11-05**
+  - 取消订阅和退款不是一回事，钱到底退什么（英文）：[ChatGPT Plus Refund Policy vs Claude: What You Get Back When You Cancel](https://telegra.ph/ChatGPT-Plus-Refund-Policy-vs-Claude-What-You-Get-Back-When-You-Cancel-11-05)
+  - Claude Pro 涨价了吗：读官方定价页的四个信号（英文）：[Did Claude Pro's Price Go Up? Reading the Official Pricing Page](https://sublynow.substack.com/p/did-claude-pros-price-go-up-reading)
+- **2026-11-04**
+  - 多笔海外订阅的到期日与自动续费怎么管：[订了好几个海外 AI？自动续费怎么关、到期日怎么管](https://www.vava8.com/index.php?app=index&act=view&id=181238)
+  - 续费失败后的宽限期有多长：Apple 的 3/16/28 天与 Google 的 grace period：[X 短推](https://x.com/SublyNowcgc/status/2117872304160186845)
+- **2026-11-03**
+  - 人民币付款，除了标价还多付什么（英文）：[ChatGPT Plus Price in China: The $20 Tag Isn't the Price](https://medium.com/@xl7848617/chatgpt-plus-price-in-china-the-20-tag-isnt-the-price-8b4c4aba8145)
+  - 卡能付别家、付 ChatGPT 就被拒的五个环节（英文）：[ChatGPT Card Declined: Five Failure Points in the Payment Chain](https://dev.to/sublynow/chatgpt-card-declined-five-failure-points-in-the-payment-chain-37jl)
+  - xAI Grok 六档定价逐档解读（英文）：[xAI Grok Pricing in 2026: All Six Tiers and What Each One Actually Unlocks](https://www.promoteproject.com/article/231217/xai-grok-pricing-in-2026-all-six-tiers-and-what-each-one-actually-unlocks)
+- **2026-11-02**
+  - 付款被拒的六种原因，逐个怎么查：[ChatGPT Plus Payment Was Not Approved: What Each Decline Actually Means](https://sublynow.blogspot.com/2026/11/chatgpt-plus-payment-was-not-approved.html)
+  - Grok 免费额度够不够用：[Grok 免费额度到底够不够用？六档价格与免费版的限制差在哪](https://blog.csdn.net/sublynow_2026716/article/details/169846174)
+  - SuperGrok 各档价格一图流：[SuperGrok Pricing 2026: All 6 Plans From $0 to $200, Explained](https://www.pinterest.com/pin/1146447648930037091/)
 - **2026-10-30**
   - 200 美元档 Pro 的配额调整与补偿口径：[ChatGPT Pro 20x 额度砍半，还会恢复吗](https://post.smzdm.com/p/ak836nl8/)
   - Pro 每月等额 API 额度怎么领（英文）：[Does ChatGPT Pro Include API Credits?](https://www.promoteproject.com/article/231026/does-chatgpt-pro-include-api-credits-how-much-and-how-to-claim-them)
