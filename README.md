@@ -1,5 +1,5 @@
-﻿> **English version**: [README.en.md](README.en.md)
-> **最后更新**：2026-11-06
+> **English version**: [README.en.md](README.en.md)
+> **最后更新**：2026-11-13
 > 
 
 
@@ -179,6 +179,24 @@
 ---
 
 ## 更新记录
+
+- **2026-11-13**
+  - 学生验证、地区差价与分享码，三种「看起来更便宜」的路子靠不靠得住（英文）：[ChatGPT Student Discount Not Working? Three "Cheaper" Paths, and Which Ones Hold](https://telegra.ph/ChatGPT-Student-Discount-Not-Working-Three-Cheaper-Paths-and-Which-Ones-Hold-11-13)
+  - 续费扣款失败，重新付款前先查四件事（英文）：[ChatGPT Renewal Failed? Check These Four Things Before You Pay Again](https://www.promoteproject.com/article/231701/chatgpt-renewal-failed-check-these-four-things-before-you-pay-again)
+  - 一家人共用一个账号算不算违规、会不会被封：[一家人共用一个 ChatGPT 账号，会被封吗？](https://www.vava8.com/index.php?app=index&act=view&id=186927)
+  - 免费版到底够不够用，降级后最先感觉到什么（英文问答）：[Is ChatGPT Plus worth paying for, or is the free version enough for most users?](https://www.quora.com/Is-ChatGPT-Plus-worth-paying-for-or-is-the-free-version-enough-for-most-users/answer/Xinyi-Liu-249)
+- **2026-11-12**
+  - 到期前 30 天该做的四件事（英文）：[When Does ChatGPT Plus Expire? 4 Things to Do in the Last 30 Days](https://sublynow.blogspot.com/2026/11/when-does-chatgpt-plus-expire-4-things.html)
+  - 三家取消订阅的入口分别藏在第几层：[ChatGPT、Claude、Gemini 的取消订阅入口，分别藏在第几层](https://blog.csdn.net/sublynow_2026716/article/details/170630271)
+- **2026-11-11**
+  - 手机上付了钱、网页端还是免费版的跨端同步问题（英文）：[Paid for ChatGPT Plus on Your Phone, Still Free on the Web? How App Store Subscriptions Sync](https://dev.to/sublynow/paid-for-chatgpt-plus-on-your-phone-still-free-on-the-web-how-app-store-subscriptions-sync-57d0)
+  - 一个人开三个 AI 账号会不会互相顶掉：[一个人开三个 AI 号，哪个会先互相顶掉？](https://www.vava8.com/index.php?app=index&act=view&id=185783)
+- **2026-11-10**
+  - App Store 订阅谁扣款、谁退款（英文）：[ChatGPT App Store Subscription: Who Charges You and Who Refunds You](https://medium.com/@xl7848617/chatgpt-app-store-subscription-who-charges-you-and-who-refunds-you-a9827ede54bb)
+  - 退款申请怎么提、钱几天到账（英文问答）：[Has anyone got a refund from ChatGPT subscription?](https://www.quora.com/Has-anyone-got-a-refund-from-chatgpt-subscription/answer/Xinyi-Liu-249)
+  - SuperGrok 印度区价格为什么一夜翻四倍（英文）：[SuperGrok Price in India: Why It Jumped 4x](https://www.promoteproject.com/article/231560/supergrok-price-in-india-why-it-jumped-4x-and-why-every-country-shows-a-different-number)
+- **2026-11-09**
+  - ChatGPT Go 是什么档、和 Plus 差在哪（英文）：[ChatGPT Go vs Plus: What the $8 Plan Actually Includes](https://sublynow.blogspot.com/2026/11/chatgpt-go-vs-plus-what-8-plan-actually.html)
 
 - **2026-11-06**
   - ChatGPT Plus 和 Claude Pro 要不要都订：[ChatGPT Plus vs Claude Pro: Do You Actually Need Both?](https://sublynow.blogspot.com/2026/11/chatgpt-plus-vs-claude-pro-do-you.html)
